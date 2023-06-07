@@ -24,6 +24,7 @@
 #contentButton{
 	text-align: center;
 	width: 100%;
+	font-size: 18px;
 }
 #contentButton li{
 	width: 16px;
