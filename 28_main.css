@@ -38,3 +38,8 @@
 #contentButton li.clickme{
 	background-color: #6a6a6a;
 }
+
+.about{
+	width: 80%;
+	font-size: 16px;
+}
